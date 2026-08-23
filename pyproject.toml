@@ -16,7 +16,7 @@ garmin-fetch = "garmin_fitness.cli:main"
 [dependency-groups]
 dev = [
     "mypy>=1.17,<2",
-    "pytest>=8.4,<9",
+    "pytest>=8.4,<10",
     "ruff>=0.12,<0.13",
 ]
 

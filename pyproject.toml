@@ -7,7 +7,7 @@ requires-python = ">=3.12,<3.13"
 license = { file = "LICENSE" }
 authors = [{ name = "Garmin Fitness contributors" }]
 dependencies = [
-    "garminconnect==0.2.25",
+    "garminconnect==0.3.13",
 ]
 
 [project.scripts]
